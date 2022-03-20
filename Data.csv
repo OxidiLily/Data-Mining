@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+Indonesia,45,72000,No
+Singapura,25,48000,Yes
+Thailand,30,54000,No
+Singapura,42,61000,No
+Thailand,43,,Yes
+Indonesia,39,58000,Yes
+Singapura,,52000,No
+Indonesia,41,79000,Yes
+Thailand,51,83000,No
+Indonesia,39,67000,Yes
