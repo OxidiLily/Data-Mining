@@ -1,11 +1,6 @@
-from calendar import c
-from random import random
-from this import s
-from matplotlib import transforms
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-from sklearn import impute
 
 #Numpy merupakan library python digunakan untuk komputasi matriks.
 #Matplatlib merupakan library python untuk presentasi data berupa grafik atau plot
